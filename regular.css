@@ -1,0 +1,19 @@
+* {
+	font-family: "jaf-bernino-sans", "sans-serif";
+/*	background-color: #bbb6be;*/
+}
+
+body {
+	background-color: rgb(224, 218, 227);
+}
+
+.container * {
+	color: #bbb6be;
+/*	background-color: #675c6c;*/
+}
+
+.container {
+	background-color: #675c6c;
+	margin: 10px;
+	padding: 10px;
+}
