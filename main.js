@@ -11,6 +11,7 @@
 		var new_job = create_new_job(new_job_name);
 		todo_list.appendChild(new_job);
 		text_area_job_name.value = '';
+		save_job(new_job_name)
 	}
 
 	function create_new_job(new_job_name){
